@@ -1,5 +1,5 @@
 # 💫 Sobre Min:
-🔭 Estudo para me tornar um Desenvolvedor Fullstack<br>- 📚 Atualmente estou aprendendo Princípios de Desenvolvimento.<br>- ⚡Estou Dedicando Todo o Meu tempo
+- 🔭 Estudo para me tornar um Desenvolvedor Fullstack<br>- 📚 Atualmente estou aprendendo Princípios de Desenvolvimento.<br>- ⚡Estou Dedicando Todo o Meu tempo
 
 
 ## 🌐 Socials:
