@@ -1,4 +1,4 @@
-# 💫 Sobre Min:
+# 💫 Sobre Mim:
 - 🔭 Estudo para me tornar um Desenvolvedor Fullstack<br>- 📚 Atualmente estou aprendendo Princípios de Desenvolvimento.<br>- ⚡Estou Dedicando Todo o Meu tempo
 
 
