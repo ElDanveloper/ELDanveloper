@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-- 🔭 Desenvolvedor Fullstack Flutter/Flutterflow<br>- 📚<br>
+- 🔭 Desenvolvedor Fullstack Flutter/Flutterflow<br>
 
 
 ## 🌐 Socials:
